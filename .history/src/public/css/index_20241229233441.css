@@ -1,0 +1,15 @@
+.content {
+  background: #f8f8f8;
+}
+
+.content__inner
+  margin: 0 auto;
+  padding: 70px 0;
+}
+
+.content__title {
+  font-family: "Hiragino Kaku Gothic Pro";
+  font-size: 32px;
+  color: #333333;
+  font-weight: 600;
+}

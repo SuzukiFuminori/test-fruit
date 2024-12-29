@@ -1,0 +1,63 @@
+.content {
+  background: #f8f8f8;
+}
+
+.content__inner {
+  margin: 0 auto;
+  padding: 70px 0;
+}
+
+.content-heading {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 0 40px 0;
+}
+
+.content-heading__title {
+  font-family: "Hiragino Kaku Gothic Pro";
+  font-size: 32px;
+  color: #333333;
+  font-weight: 600;
+}
+
+.content-heading__button-submit {
+  padding: 13px 20px;
+  background:#ffa929;
+  color: #4B4B4B;
+  border-radius: 5px;
+}
+
+.content-container {
+  display: flex;
+  justify-content: center;
+  padding: 0 40px 0;
+}
+
+.search-wrapper {
+  border-bottom: solid 1px;
+}
+
+.search__input {
+  padding-bottom: 20px;
+}
+
+.search__input--text {
+  padding: 14.5px 10px;
+  border-radius: 25px;
+  background: #FFFFFF;
+  border: 1px #E0DFDE;
+  font-color: #E0DFDE;
+}
+
+.search__button-submit {
+  height: 44px;
+  width: 100%;
+  padding: 10px auto;
+  background: #F5C800;
+  border-radius: 5px;
+}
+
+.sort__content {
+  font-size: 20px;
+}
